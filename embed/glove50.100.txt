@@ -1,2 +1,0 @@
-==> glove50.txt <==
-==> glove50.txt <==
