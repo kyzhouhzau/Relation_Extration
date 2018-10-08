@@ -8,7 +8,7 @@
 #第一步将训练数据和测试数据处理成如下格式
 #18 1 1 9 9 the child was carefully wrapped and bound into the cradle by means of a cord
 #第一个为label 第二个为<e1>起始位置，依次类推第四个为<e2>起始位置
-#1.利用TEST_FILE_KEY.TXT文件编码label使得train和test中的label相对应,将编码结果写入data/label2id.pkl文件
+#1.利用relations.txt文件编码label使得train和test中的label相对应,将编码结果写入data/label2id.pkl文件
 import pickle
 import re
 import os
