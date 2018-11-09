@@ -1,15 +1,15 @@
 # Relation Classification via Convolutional Deep Neural Network
-## 这份代码用于实现以上这篇文章。
-## 数据集 ：SemEval-2010
-## 框架： Tensorflow==1.9
+
+## data set ：SemEval-2010
+## requireds： Tensorflow==1.9
 
 
-### 使用方法：
+### usage：
 
-1. 训练模型：
+1. train model please run：
 	bash run.sh
 
-2. 测试结果：
+2. test model please run：
 	bash eval.sh
  
 参考：https://github.com/FrankWork/conv_relation
