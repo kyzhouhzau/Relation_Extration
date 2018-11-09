@@ -12,4 +12,4 @@
 2. test model please run：
 	bash eval.sh
  
-参考：https://github.com/FrankWork/conv_relation
+reference ：https://github.com/FrankWork/conv_relation
